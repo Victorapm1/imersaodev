@@ -37,7 +37,7 @@ for (let dado of dados) {
     }
 
    if (!resultados) {
-        resultados = "<h2>Nenhum resultado encontrado</h2@>"
+        resultados = "<h2>Nenhum resultado encontrado</h2>"
     }
 
 //35:13
